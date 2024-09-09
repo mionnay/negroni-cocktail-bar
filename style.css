@@ -125,7 +125,7 @@ a:hover {
     text-align: right;
 }
 
-.text-l { font-size: 4.5rem; }
+.text-l { font-size: 5.5rem; }
 
 .menu h3 { margin: 1rem 0; }
 
@@ -187,6 +187,6 @@ footer h2 { margin-bottom: 0.5rem; }
 
 @media(max-width: 36em) {
 
-    h1       { font-size: 6rem; }
-    h1 span  {font-size: 2rem;  }
+    h1       { font-size: 4.5rem; }
+    h1 span  {font-size: 1.5rem;  }
 }
