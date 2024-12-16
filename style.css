@@ -153,10 +153,14 @@ footer h2 { margin-bottom: 0.5rem; }
 
 .sub-footer { padding-top: 5%; }
 
-.sub-footer p, a { 
+.sub-footer p { 
     font-size: 0.8rem;
     opacity: 0.8;
+}
 
+.sub-footer span {
+    font-size: 0.8rem;
+    opacity: 0.8;
 }
 
 
